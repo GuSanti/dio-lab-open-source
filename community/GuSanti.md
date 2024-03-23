@@ -31,6 +31,7 @@ Sou um entusiasta da tecnologia, dedicado ao desenvolvimento e à inovação, es
 Atualmente, sou um profissional de Recursos Humanos apaixonado por tecnologia. Estou aprofundando meus conhecimentos em programação, com foco em Inteligência Artificial, buscando identificar as principais oportunidades de evolução da área de RH com a ajuda da tecnologia. Acredito que a combinação entre conhecimentos de RH e habilidades técnicas em programação pode revolucionar a forma como lidamos com pessoas nas organizações, tornando o ambiente de trabalho mais eficiente, humano e inovador.
 
 ---
+## English
 
 # Augusto Santiago
 
